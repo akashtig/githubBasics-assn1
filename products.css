@@ -1,0 +1,32 @@
+main{
+  width:50vw;
+  max-width: 80ch;;
+
+margin:auto;
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+  
+}
+.products{
+display: flex;
+flex-wrap: wrap;
+
+}
+section{
+margin:1rem 0;
+} 
+h3,p{
+padding:0 10px;
+text-align: left;
+margin:0;
+}
+
+
+
+article{
+background-color: blueviolet;
+height:12em;
+width:12em;
+margin:.5em;
+}

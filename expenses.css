@@ -1,0 +1,24 @@
+main{
+  max-width:100ch;
+  width:60vw;
+min-width:40ch;
+margin:auto;
+  
+}
+section{
+display: flex;
+margin:auto;
+flex-wrap: wrap;
+justify-content: center;
+
+}
+h3,p{
+padding: 1em 5vw;
+}
+
+article{
+background-color: blueviolet;
+height:12em;
+width:12em;
+margin:.5em;
+}

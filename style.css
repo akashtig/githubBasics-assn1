@@ -51,6 +51,30 @@ h2 {
   font-size: 3rem;
 }
 
+main{
+  max-width:90ch;
+  width:60vw;
+  min-width:40ch;
+  margin:auto;
+  margin-bottom: 3rem;
+}
+
+article{
+  background-color:rgb(168, 89, 168);
+  height:20em;
+  width:100%;
+  border-radius: .5rem;
+  margin: 2rem 0;
+  }
+
+  h3{
+    margin: 8em 0 0 0;
+    }
+  
+h4 {
+  color: rgb(168, 89, 168);
+}
+
 /* Link Styling */
 
 a {

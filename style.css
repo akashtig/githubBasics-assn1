@@ -55,8 +55,7 @@ main{
   max-width:90ch;
   width:60vw;
   min-width:40ch;
-  margin:auto;
-  margin-bottom: 3rem;
+  margin:3rem auto;
 }
 
 article{
